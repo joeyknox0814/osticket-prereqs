@@ -22,13 +22,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Item 1 created virtual machine
 - Item 2
 - Item 3
 - Item 4
 - Item 5
 
-<h2>Installation Steps</h2>
+![Screenshot 2023-03-23 11 19 11 AM](https://user-images.githubusercontent.com/127779875/227251753-813ea6bb-5926-4c64-ab9b-5ae16656f33e.png)
+<h2>Installation Steps</h2>![Screenshot 2023-03-23 11 19 11 AM](https://user-images.githubusercontent.com/127779875/227251198-7dbd61d9-138e-4d35-8180-92c66742087d.png)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
